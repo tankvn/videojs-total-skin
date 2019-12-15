@@ -24,8 +24,6 @@ http://codecanyon.net/item/flat-skin-retina-for-videojs-5/14291168?ref=FaceTheme
 
 <img height="491px" src="https://raw.githubusercontent.com/tankvn/videojs-total-skin/master/coming-soon/1074126.jpg" alt="videojs-total-skin" title="videojs-total-skin"/>
 
-<img height="491px" src="https://raw.githubusercontent.com/tankvn/videojs-total-skin/master/coming-soon/1074588.jpg" alt="videojs-total-skin" title="videojs-total-skin"/>
-
 <img height="491px" src="https://raw.githubusercontent.com/tankvn/videojs-total-skin/master/coming-soon/bermuda_big.jpg" alt="videojs-total-skin" title="videojs-total-skin"/>
 
 <img height="491px" src="https://raw.githubusercontent.com/tankvn/videojs-total-skin/master/coming-soon/daily-ui-_057.jpg" alt="videojs-total-skin" title="videojs-total-skin"/>
