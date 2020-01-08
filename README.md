@@ -1,4 +1,5 @@
 # videojs-total-skin
+### Contact: tanvd357@gmail.com
 
 ### Soccer Skin Retina for VideoJS
 <img height="491px" src="https://raw.githubusercontent.com/tankvn/videojs-total-skin/master/Soccer-Skin-Retina-for-VideoJS.png" alt="Soccer Skin Retina for VideoJS" title="Soccer Skin Retina for VideoJS"/>
